@@ -1,2 +1,2 @@
-#!/bi/bash
-ls ..
+#!/bin/bash
+ls -la ..
