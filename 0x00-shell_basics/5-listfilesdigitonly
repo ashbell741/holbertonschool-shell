@@ -1,4 +1,2 @@
-#!/bin/bas
-ls -l
-ls -a
+#!/bin/bash
 ls -n
