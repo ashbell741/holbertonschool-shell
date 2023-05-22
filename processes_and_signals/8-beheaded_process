@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# There can only be one
+pkill -9 -f "bash ./7-highlander"
